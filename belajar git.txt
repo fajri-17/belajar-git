@@ -1,0 +1,9 @@
+Memulai pembelajaran git bersama eduwork
+==> Git sendiri merupakan sebuah Git adalah perangkat lunak pengendali versi atau proyek manajemen kode perangkat lunak yang diciptakan oleh Linus Torvalds,
+    yang pada awalnya ditujukan untuk pengembangan kernel Linux. Desain Git terinspirasi oleh BitKeeper dan Monotone.
+
+Materi yang dibahasa pada pembelajaran GIT yaitu :
+  1. Intro
+  2. Fundamental
+  3. Branch
+  4. GUI
