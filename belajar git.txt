@@ -4,7 +4,8 @@ Memulai pembelajaran git bersama eduwork
 
 Materi yang dibahasa pada pembelajaran GIT yaitu :
   1. Intro
-    ==> pada bagian ini kita akan mengenal defini,manfaat serta kelebihan dari git
+    ==> Pada bagian ini kita akan mengenal kegunaan,defini dan manfaat git.Serta penerapannya dalam pemrograman
+
   2. Fundamental
     ==> Pada bagian ini kita akan membahas perintah-perintah dasar yang digunakan dalam GIT :
             1. Git Init
@@ -13,6 +14,8 @@ Materi yang dibahasa pada pembelajaran GIT yaitu :
             4. Git Commit
             5. Git Log
   3. Branch
+    ==> Pada bagian ini kita akang mengenal percabangan pada repository
   4. GUI
+    ==> Pada materi ini kita akan membahas tools yang digunakan untuk mempermudah dalam menggunakan GIT
 
 by Eduwork
