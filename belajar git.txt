@@ -8,5 +8,6 @@ Materi yang dibahasa pada pembelajaran GIT yaitu :
   3. Branch
     ==> Pada bagian ini kita akang mengenal percabangan pada repository
   4. GUI
+    ==> Pada materi ini kita akan membahas tools yang digunakan untuk mempermudah dalam menggunakan GIT
 
 by Eduwork
